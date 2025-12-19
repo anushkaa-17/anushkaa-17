@@ -14,13 +14,6 @@
 
 ---
 
-### ⚡ Background
-- Strong interest in core **Electrical Engineering** subjects  
-  (signals, systems, circuits, and mathematical foundations)
-- Curious about how **AI models connect with real-world data**
-
----
-
 ### 🛠️ Tools & Languages (learning/using)
 - **Languages:** Python, C/C++
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
