@@ -1,4 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I’m Anushka
+
+🎓 Electrical Engineering undergraduate  
+🤖 Exploring Machine Learning, Deep Learning & NLP  
+📊 Interested in the intersection of data, algorithms, and real-world systems  
+
+---
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms (problem-solving mindset)
+- Machine Learning fundamentals
+- Deep Learning basics (neural networks, CNNs – gradually)
+- Natural Language Processing (tokenization, embeddings, text models)
+
+---
+
+### ⚡ Background
+- Strong interest in core **Electrical Engineering** subjects  
+  (signals, systems, circuits, and mathematical foundations)
+- Curious about how **AI models connect with real-world data**
+
+---
+
+### 🛠️ Tools & Languages (learning/using)
+- **Languages:** Python, C/C++
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Concepts:** Linear Algebra, Probability, Optimization, DSA
+
+---
+
+### 📌 What You’ll Find Here
+- Practice notebooks & small ML experiments
+  
+
+
+
+
 
 <!--
 **anushkaa-17/anushkaa-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
