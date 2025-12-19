@@ -29,7 +29,7 @@
 ---
 
 ### 📌 What You’ll Find Here
-- Practice notebooks & small ML experiments
+- small ML experiments and its documentation
   
 
 
