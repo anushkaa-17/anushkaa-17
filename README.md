@@ -14,15 +14,11 @@
 
 ---
 
-### 🛠️ Tools & Languages (learning/using)
-- **Languages:** Python, C/C++
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
-- **Concepts:** Linear Algebra, Probability, Optimization, DSA
+
 
 ---
 
-### 📌 What You’ll Find Here
-- small ML experiments and its documentation
+
   
 
 
