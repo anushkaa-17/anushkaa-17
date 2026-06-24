@@ -1,12 +1,12 @@
 ## Hi there 👋 I’m Anushka
 
  Electrical Engineering undergraduate  
-🤖Exploring Machine Learning, Deep Learning & NLP  
+ Exploring Machine Learning, Deep Learning & NLP  
  Interested in the intersection of data, algorithms, and real-world systems  
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Data Structures & Algorithms
 - Machine Learning fundamentals
 - Deep Learning basics
